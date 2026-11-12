@@ -1,4 +1,4 @@
-# inboxtrue-com
+# InboxTrue
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,36 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-inboxtrue-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://inboxtrue.com/
+InboxTrue provides email verification services, allowing users to validate email addresses individually or in bulk, even on catch‑all domains. The platform returns a verdict and supporting signals, offering free single checks and up to 1,000 free bulk validations each month. It targets developers and businesses needing reliable email hygiene for sign‑ups, newsletters, and outreach, emphasizing privacy and accuracy.
+
+**Areas:** Company · EmailVerification · API · SaaS · DeveloperTools
+
+## InboxTrue on APIs.io
+
+Everything profiled for InboxTrue is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/inboxtrue-com/](https://apis.io/providers/inboxtrue-com/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://inboxtrue.com/)
+- [Documentation](https://inboxtrue.com/docs)
+- [Getting started](https://inboxtrue.com/)
+- [Pricing](https://inboxtrue.com/pricing)
+- [Support](https://inboxtrue.com/contact)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/inboxtrue-com/](https://apis.io/providers/inboxtrue-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for InboxTrue: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/inboxtrue-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
