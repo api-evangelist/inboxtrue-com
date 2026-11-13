@@ -72,19 +72,95 @@ InboxTrue provides email verification services, allowing users to validate email
 
 Everything profiled for InboxTrue is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/inboxtrue-com/](https://apis.io/providers/inboxtrue-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (2)
+
+- [InboxTrue Email API](https://apis.io/apis/inboxtrue-com/inboxtrue-com-email-api/) — The Email API from InboxTrue — 1 operation(s) for email.
+- [InboxTrue Zeroclick API](https://apis.io/apis/inboxtrue-com/inboxtrue-com-zeroclick-api/) — The Zeroclick API from InboxTrue — 1 operation(s) for zeroclick.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [InboxTrue Agentic Access](https://apis.io/agentic-access/inboxtrue-com/inboxtrue-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [InboxTrue API Rules](https://apis.io/rules/inboxtrue-com/inboxtrue-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [InboxTrue Authentication](https://apis.io/security/inboxtrue-com/inboxtrue-com-authentication/)
+- [InboxTrue Domain Security](https://apis.io/security/inboxtrue-com/inboxtrue-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [InboxTrue Plans Pricing](https://apis.io/plans/inboxtrue-com/inboxtrue-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://inboxtrue.com/)
 - [Documentation](https://inboxtrue.com/docs)
-- [Getting started](https://inboxtrue.com/)
-- [Pricing](https://inboxtrue.com/pricing)
-- [Support](https://inboxtrue.com/contact)
+- [Getting started](https://inboxtrue.com/#developers)
+- [Sign up](https://inboxtrue.com/register)
+- [Terms of service](https://inboxtrue.com/terms)
+- [Privacy policy](https://inboxtrue.com/privacy)
+- [GitHub](https://github.com/inboxtrue)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/inboxtrue-com/](https://apis.io/providers/inboxtrue-com/).
+**Kin Score 51.2** — developing · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 50.1 |
+| Contract governance | 65.5 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 62.6 |
+
+**Agent readiness 50.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/inboxtrue-com/](https://apis.io/providers/inboxtrue-com/).
 
 ## How this profile is made
 
